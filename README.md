@@ -1,0 +1,5 @@
+This paper examines how micro-level built environment (BE) features, i.e. what people see and experience at street level, shape urban mode choice. 
+We create a digital twin of micro-level BE features extracted from Google Street View imagery (SVI) and OpenStreetMap points of interest (PoI) and incorporate it into a traditional mode choice framework, which also includes macro-level BE features. 
+We quantify these features around public transport (PT) stations using several spatial aggregation levels and evaluate their contribution to model performance using 24,041 ob-servations from the Danish National Travel Survey in the Capital Region of Denmark. 
+Results show that SVI features within a 1000 m circular buffer provide the strongest improvement in mode choice prediction, while PoI features result in weaker fit. 
+The application demonstrates how specific streetscape characteristics, such as building density, greenery, and visible road infrastructure or vehicles, influence transport decisions and offer insights for policies that support sustainable mobility.
